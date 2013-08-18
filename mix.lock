@@ -1,0 +1,4 @@
+[ "cowboy": {:git, "git://github.com/extend/cowboy.git", "9eaee45c090b9cb170554bc7e09d679bc0598716", [{:tag, "0.8.6"}]},
+  "proper": {:git, "https://github.com/manopapad/proper", "aa6b088607a08b82ef765dfdfcb6f20f0735915f", []},
+  "properex": {:git, "git://github.com/yrashk/properex.git", "5caab3c3c0092f7c2d621486effd64b9a45003a6", []},
+  "ranch": {:git, "git://github.com/extend/ranch.git", "4f70a16bbe08e446e8fec248ca345d5f8e7df038", [{:ref, "0.8.4"}]} ]
